@@ -12,3 +12,8 @@ body {
   margin: 0;
   padding: 0;
 }
+
+@theme inline {
+  --font-sans: var(--font-open-sans);
+  --font-script: var(--font-alex-brush);
+}
