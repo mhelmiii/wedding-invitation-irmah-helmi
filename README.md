@@ -36,3 +36,31 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details. -->
 
 ## Wedding Invitation Digital Irmah & Helmi
+
+Tech Stacks:
+
+1. Frontend & Backend: Next js, React, Tailwind CSS
+2. Animation: Framer Motion (motion.dev)
+3. Database: spreadsheet
+4. Git & GitHub: version control
+5. Vercel: Deploy web
+
+Website Pages Overview:
+
+1. cover invitation for opening cover
+2. countdown and date
+3. photo and wording QS. Ar-Rum Ayat 21
+4. photo cpw and wording
+5. photo cpp and wording
+6. love story
+7. wedding galery
+8. rsvp + wedding wishes
+9. wedding gift
+10. thank you page
+
+Color Palette:
+
+1. Sage Green
+2. Dark Green / Emerald Green
+3. Cream White
+4. White
